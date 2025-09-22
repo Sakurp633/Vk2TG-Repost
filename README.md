@@ -1,6 +1,7 @@
 # Vk2TG-Repost
-Репостинг ВКонтакте → Telegram (GUI)
 
+Репостинг ВКонтакте → Telegram (GUI)
+------------------------------------
 Программа автоматически репостит посты из сообщества ВКонтакте в Telegram.  
 Есть графический интерфейс (PyQt6) для запуска/остановки процесса и сохранения настроек.  
 
@@ -21,8 +22,9 @@ python launcher.py
 1)Вкладка Главная — кнопки запуска/остановки репостинга, логи.
 
 2)Вкладка Настройки — ввод и сохранение токенов.
---------------------------------------------------
+
 VK → Telegram Reposter (GUI)
+--------------------------------------------------
 
 This program automatically reposts posts from a VKontakte (VK) community to Telegram.
 It includes a graphical interface (PyQt6) for starting/stopping the process and saving settings.
