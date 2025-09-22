@@ -1,0 +1,20 @@
+{
+  "vk": {
+    "token": "",
+    "owner_id": "YOURIDGROUP",
+    "api_version": "5.131",
+    "group_token": "vk1.a.YOURTOKEN"
+  },
+  "telegram": {
+    "bot_token": "BotToken",
+    "chat_id": "@ChatID",
+    "bot_username": "BotID for button under post" 
+  },
+  "settings": {
+    "button_text": "ButtonText",
+    "check_interval": 60,
+    "timeout": 30,
+    "max_retries": 3,
+    "max_images": 10
+  }
+}
