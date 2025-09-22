@@ -30,6 +30,7 @@ This program automatically reposts posts from a VKontakte (VK) community to Tele
 It includes a graphical interface (PyQt6) for starting/stopping the process and saving settings.
 
 Installation:
+
 1.Install Python 3.10 or higher.
 
 2.Install dependencies:
