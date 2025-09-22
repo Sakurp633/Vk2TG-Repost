@@ -31,11 +31,11 @@ It includes a graphical interface (PyQt6) for starting/stopping the process and 
 
 Installation:
 
-1.Install Python 3.10 or higher.
+  1.Install Python 3.10 or higher.
 
-2.Install dependencies:
+  2.Install dependencies:
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Running:
 
