@@ -1,5 +1,9 @@
 # Vk2TG-Repost
 
+<img width="787" height="493" alt="image" src="https://github.com/user-attachments/assets/aec98cae-7d56-4fa7-a776-988b77721981" />
+<img width="793" height="495" alt="image" src="https://github.com/user-attachments/assets/980ad2e7-e724-4205-990e-20586c02d350" />
+
+
 Репостинг ВКонтакте → Telegram (GUI)
 ------------------------------------
 Программа автоматически репостит посты из сообщества ВКонтакте в Telegram.  
